@@ -1,3 +1,3 @@
 
-a1=raw_input()
-print ord(a1)
+a11=raw_input()
+print ord(a11)
